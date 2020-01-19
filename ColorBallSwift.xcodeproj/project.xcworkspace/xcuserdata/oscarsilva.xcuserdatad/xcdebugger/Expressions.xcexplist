@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ColorBallSwift.GameViewController.viewDidLoad (ColorBallSwift.GameViewController)() -&gt; ():GameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController!.navigationBar.bounds.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.RecordesViewController.viewDidLoad (ColorBallSwift.RecordesViewController)() -&gt; ():RecordesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.recordTableView.dataSource">
+            </PersistentString>
+            <PersistentString
+               value = "self.recordTableView.dataSource ">
+            </PersistentString>
+            <PersistentString
+               value = "self.recordTableView.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.didBeginContact (ColorBallSwift.Fase1Scene)(ObjectiveC.SKPhysicsContact) -&gt; ():Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+            <PersistentString
+               value = "jogoAtivo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.TableRecordsDatasource.init (ColorBallSwift.TableRecordsDatasource.Type)(table : ObjectiveC.UITableView, itens : Swift.Array&lt;Swift.AnyObject&gt;) -&gt; ColorBallSwift.TableRecordsDatasource:TableRecordsDatasource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.iniciaFases (ColorBallSwift.Fase1Scene)() -&gt; ():Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bola">
+            </PersistentString>
+            <PersistentString
+               value = "config!.valueForKey(&quot;musica&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = " config!.valueForKey(&quot;musica&quot;) as Float">
+            </PersistentString>
+            <PersistentString
+               value = "jogoAtivo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.init (ColorBallSwift.Fase1Scene.Type)(size : C.CGSize) -&gt; ColorBallSwift.Fase1Scene:Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Utils.sharedInstance.navBarHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.fimFase (ColorBallSwift.Fase1Scene)() -&gt; ():Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "config">
+            </PersistentString>
+            <PersistentString
+               value = "_player">
+            </PersistentString>
+            <PersistentString
+               value = "config!.valueForKey(&quot;nome&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "jogoAtivo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.didMoveToView (ColorBallSwift.Fase1Scene)(ObjectiveC.SKView) -&gt; ():Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bola!">
+            </PersistentString>
+            <PersistentString
+               value = "bola!.physicsBody">
+            </PersistentString>
+            <PersistentString
+               value = "config">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.Fase1Scene.update (ColorBallSwift.Fase1Scene)(Swift.Double) -&gt; ():Fase1Scene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_posForce">
+            </PersistentString>
+            <PersistentString
+               value = "currentMaxAccelX">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.GameViewController.viewWillLayoutSubviews (ColorBallSwift.GameViewController)() -&gt; ():GameViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.ConfiguracoesViewController.viewWillAppear (ColorBallSwift.ConfiguracoesViewController)(Swift.Bool) -&gt; ():ConfiguracoesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "configuracoes">
+            </PersistentString>
+            <PersistentString
+               value = "slMusica?.value">
+            </PersistentString>
+            <PersistentString
+               value = "slMusica?.value ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColorBallSwift.RecordesViewController.init (ColorBallSwift.RecordesViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; ColorBallSwift.RecordesViewController:RecordesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recordes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
